@@ -1,0 +1,123 @@
+.mkd-preload-background { background-image: url(https://fvg-indo.co.id/wp-content/themes/servicemaster/assets/img/preload_pattern.png) !important;}
+
+.mkd-type1-gradient-left-to-right { background: linear-gradient(to right,#50d18e, #0098ff);}
+
+.mkd-type1-separator-gradient-left-to-right { border-image: linear-gradient(to right,#50d18e, #0098ff);border-image-slice: 1;}
+
+.mkd-type1-gradient-bottom-to-top, .mkd-type1-gradient-bottom-to-top-after:after { background: linear-gradient(to top,#50d18e, #0098ff);}
+
+.mkd-type1-gradient-left-bottom-to-right-top { background: linear-gradient(to right top,#50d18e, #0098ff);}
+
+.mkd-type1-gradient-left-to-right-2x { background: linear-gradient(to right,#50d18e 0%, #0098ff 50%,#50d18e 100%);background-size: 200% 200%;}
+
+.mkd-type1-gradient-left-to-right-text i, .mkd-type1-gradient-left-to-right-text i:before, .mkd-type1-gradient-left-to-right-text span { background: -webkit-linear-gradient(right top,#0098ff, #50d18e);color: #50d18e;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.mkd-type1-gradient-bottom-to-top-text i, .mkd-type1-gradient-bottom-to-top-text i:before, .mkd-type1-gradient-bottom-to-top-text span { background: -webkit-linear-gradient(bottom,#0098ff, #50d18e);color: #50d18e;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.mkd-type4-gradient-left-to-right { background: linear-gradient(to right,#32343a, #bfa155);}
+
+.mkd-type4-separator-gradient-left-to-right { border-image: linear-gradient(to right,#32343a, #bfa155);border-image-slice: 1;}
+
+.mkd-type4-gradient-bottom-to-top, .mkd-type4-gradient-bottom-to-top-after:after { background: linear-gradient(to top,#32343a, #bfa155);}
+
+.mkd-type4-gradient-left-bottom-to-right-top { background: linear-gradient(to right top,#32343a, #bfa155);}
+
+.mkd-type4-gradient-left-to-right-2x { background: linear-gradient(to right,#32343a 0%, #bfa155 50%,#32343a 100%);background-size: 200% 200%;}
+
+.mkd-type4-gradient-left-to-right-text i, .mkd-type4-gradient-left-to-right-text i:before, .mkd-type4-gradient-left-to-right-text span { background: -webkit-linear-gradient(right top,#bfa155, #32343a);color: #32343a;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.mkd-type4-gradient-bottom-to-top-text i, .mkd-type4-gradient-bottom-to-top-text i:before, .mkd-type4-gradient-bottom-to-top-text span { background: -webkit-linear-gradient(bottom,#bfa155, #32343a);color: #32343a;-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
+
+.mkd-boxed .mkd-wrapper { background-attachment: fixed;}
+
+h1 { font-family: Roboto;}
+
+h2 { font-family: Roboto;}
+
+h3 { font-family: Roboto;}
+
+h4 { font-family: Roboto;}
+
+h5 { font-family: Roboto;}
+
+h6 { font-family: Roboto;}
+
+p { font-family: Roboto;}
+
+.mkd-st-loader .pulse, .mkd-st-loader .double_pulse .double-bounce1, .mkd-st-loader .double_pulse .double-bounce2, .mkd-st-loader .cube, .mkd-st-loader .rotating_cubes .cube1, .mkd-st-loader .rotating_cubes .cube2, .mkd-st-loader .stripes > div, .mkd-st-loader .wave > div, .mkd-st-loader .two_rotating_circles .dot1, .mkd-st-loader .two_rotating_circles .dot2, .mkd-st-loader .five_rotating_circles .container1 > div, .mkd-st-loader .five_rotating_circles .container2 > div, .mkd-st-loader .five_rotating_circles .container3 > div, .mkd-st-loader .atom .ball-1:before, .mkd-st-loader .atom .ball-2:before, .mkd-st-loader .atom .ball-3:before, .mkd-st-loader .atom .ball-4:before, .mkd-st-loader .clock .ball:before, .mkd-st-loader .mitosis .ball, .mkd-st-loader .lines .line1, .mkd-st-loader .lines .line2, .mkd-st-loader .lines .line3, .mkd-st-loader .lines .line4, .mkd-st-loader .fussion .ball, .mkd-st-loader .fussion .ball-1, .mkd-st-loader .fussion .ball-2, .mkd-st-loader .fussion .ball-3, .mkd-st-loader .fussion .ball-4, .mkd-st-loader .wave_circles .ball, .mkd-st-loader .pulse_circles .ball { background-color: #ffdc39;}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { background-color: rgba(69, 69, 69, 1);}
+
+.cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea { height: 150px;}
+
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { background-color: rgba(255, 255, 255, 1);}
+
+.cf7_custom_style_2 p { color: #161616;font-size: 14px;font-family: Poppins;font-weight: 600;}
+
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { background-color: rgba(255, 220, 57, 1);border-color: rgba(255, 220, 57, 1);}
+
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(242, 209, 54, 1);border-color: rgba(242, 209, 54, 1);}
+
+.cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea { height: 100px;}
+
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { background-color: rgba(243, 245, 246, 1);border-color: rgba(216, 221, 227, 1);}
+
+.cf7_custom_style_3 p { color: #5c5c5c;font-size: 16px;line-height: 26px;font-family: Lato;font-weight: 300;}
+
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { font-weight: 600;background-color: rgba(255, 255, 255, 1);}
+
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(246, 246, 246, 1);}
+
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;background-color: rgba(69, 69, 69, 1);border-color: rgba(69, 69, 69, 1);}
+
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;background-color: rgba(77, 77, 77, 1);border-color: rgba(77, 77, 77, 1);}
+
+.mkd-top-bar-background { height: 63px;}
+
+.mkd-header-standard .mkd-page-header .mkd-logo-wrapper a { max-height: 108px;}
+
+.mkd-header-standard .mkd-page-header .mkd-menu-area { height: 120px;}
+
+.mkd-header-standard-extended .mkd-page-header .mkd-logo-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-centered .mkd-page-header .mkd-logo-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+                
+        			@media only screen and (max-width: 1000px) {
+			.mkd-mobile-header .mkd-mobile-logo-wrapper a { height: 60px !important;}
+
+			}
+					@media only screen and (max-width: 480px) {
+			.mkd-mobile-header .mkd-mobile-logo-wrapper a { height: 60px !important;}
+
+			}
+		
